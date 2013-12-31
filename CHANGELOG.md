@@ -1,5 +1,14 @@
 # Changelog
 
+## v0.3.3
+
+* re-resolve tcp addresses on reconnections
+* Various code improvements
+* add convenience methods to set TCP keep alive options
+* Force StreamEngine to use big endian
+* Revert back to use currentTimeMillis because it's less expensive than nanoTime
+* Fix issue #122 - handshake now uses ByteBuffer accessor methods directly
+
 ## v0.3.2
 
 * Various code improvements

@@ -19,9 +19,9 @@
     <version>7</version>
   </parent>
   <scm>
-    <url>git@github.com:zeromq/jeromq.git</url>
-    <connection>scm:git:git@github.com:zeromq/jeromq.git</connection>
-    <developerConnection>scm:git:git@github.com:zeromq/jeromq.git</developerConnection>
+    <url>git@github.com:zeromq/jeromq3-x.git</url>
+    <connection>scm:git:git@github.com:zeromq/jeromq3-x.git</connection>
+    <developerConnection>scm:git:git@github.com:zeromq/jeromq3-x.git</developerConnection>
   </scm>
   <developers>
     <developer />
